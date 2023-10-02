@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/dwipayogi">
     <img src="https://github-readme-stats.vercel.app/api?username=dwipayogi&bg_color=0d1117&border_color=2f80ed&text_color=e6edf3&show_icons=true&theme=default#gh-dark-mode-only" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwipayogi&theme=github-dark-blue&hide_border=true" />
+    <img src="https://github-streak-stats-ten.vercel.app/?user=dwipayogi&theme=github-dark-blue&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwipayogi&layout=donut&bg_color=0d1117&hide_border=true&text_color=e6edf3" />
   </a>
 </p>
