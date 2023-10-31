@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Yogyakarta State University**
 - 🌱 I’m currently learning **Front End Development**
-- 👨‍💻 All of my projects are available at [dwipayogi.github.io](https://dwipayogi.github.io)
+- 👨‍💻 All of my projects are available at [dwipayogi.vercel.app](https://dwipayogi.vercel.app)
 - 📫 How to reach me **dwipayogi50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
