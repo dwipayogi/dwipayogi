@@ -1,6 +1,6 @@
 <h6 align="center">Hello, I'm </h6>
 <h1 align="center">Dwipa Yogiswara</h1>
-<h3 align="center">UI/UX Designer || Frontend Developer</h3>
+<h3 align="center">Software Development Enthusiast</h3>
 <div align="center">
     
   [![wakatime](https://wakatime.com/badge/user/018b5c4f-b52a-4221-b44a-73f138de4968.svg)](https://wakatime.com/@018b5c4f-b52a-4221-b44a-73f138de4968)
